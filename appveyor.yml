@@ -6,5 +6,5 @@ build:
   project: src\angle.sln
   verbosity: minimal
 artifacts:
-  - path: src\$(configuration)_$(platform)\lib
-    name: lib
+  - path: src\$(configuration)_$(platform)
+    name: angle
