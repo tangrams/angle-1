@@ -1,5 +1,7 @@
 ANGLE -- Microsoft Windows Store branch
 =====
+[![Build status](https://ci.appveyor.com/api/projects/status/yl7vbnbkb15dexdm/branch/ms-master?svg=true)](https://ci.appveyor.com/project/blair1618/ms-angle/branch/ms-master)
+
 ANGLE allows Windows users to seamlessly run OpenGL ES content by efficiently translating 
 OpenGL ES API into DirectX 11 API calls.
 
