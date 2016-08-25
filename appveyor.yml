@@ -1,0 +1,8 @@
+skip_tags: true
+clone_depth: 5
+build:
+  project: src\angle.sln
+  verbosity: minimal
+artifacts:
+  - path: src\$(configuration)_$(platform)\lib
+    name: lib
